@@ -17,7 +17,7 @@ public class WebLog {
     private String httpMethod;
     private String ip;
     private String classMethod;
-    private String webargs;
+    private String webArgs;
     private List<Operation> operation;
     private String ret;
     private String time;

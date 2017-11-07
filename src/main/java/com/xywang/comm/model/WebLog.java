@@ -19,9 +19,9 @@ public class WebLog {
     private String classMethod;
     private String webArgs;
     private List<Operation> operation;
-    private String ret;
+    private String res;
     private String time;
-    private String error;
+    private String errorMsg;
     public WebLog(){
         this.operation = new ArrayList<Operation>();
 
